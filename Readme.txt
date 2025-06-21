@@ -51,3 +51,4 @@ You can view the live website here (add your link once deployed):
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
